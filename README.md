@@ -1,4 +1,4 @@
-Wilson Hurtado Vasquez
-Prueba de Commit 2da prueba
+Wilson O. Hurtado V.
+Prueba de Ejercicio 
 Curso Modulo II
 
